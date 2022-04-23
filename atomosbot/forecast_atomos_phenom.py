@@ -382,7 +382,7 @@ def main() -> None:
         "-a",
         "--address",
         type=str,
-        default="東京都千代田区千代田1-1",
+        default="埼玉県川越市",
         help="address you want to get weather info",
     )
     # 何時間分の気象情報を表示するか指定
